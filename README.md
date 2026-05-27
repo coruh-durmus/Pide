@@ -9,8 +9,9 @@ This is a community collection of practical tips: small things that make the IDE
 Folders are added as content arrives — nothing empty, nothing speculative.
 
 - [`tricks/`](./tricks) — copy-paste prompts and one-liners you hand to Claude Code (or your assistant of choice) to make the IDE behave the way you want
+- [`tools/`](./tools) — installable artifacts (VS Code extensions, scripts) that add product-friendly capabilities to the IDE
 
-Future folders may include `tools/`, `plugins/`, `workflows/`, `settings/` — added when the first item lands.
+Future folders may include `plugins/`, `workflows/`, `settings/` — added when the first item lands.
 
 ## Contributing
 
